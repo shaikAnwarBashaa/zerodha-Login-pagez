@@ -12,6 +12,7 @@ function App() {
         
         {/* Route to show Dashboard */}
         <Route path="/dashboard" element={<Dashboard />} />
+        <Route path='/zerodha-Login-pagez/' element={<zerodha-Login-pagez/>}/>
       </Routes>
       </Router>
 
