@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zerodha-Login-pagez/static/css/main.b0a6b512.css",
+    "main.js": "/zerodha-Login-pagez/static/js/main.cf3be111.js",
+    "static/js/453.3e01e64e.chunk.js": "/zerodha-Login-pagez/static/js/453.3e01e64e.chunk.js",
+    "index.html": "/zerodha-Login-pagez/index.html",
+    "main.b0a6b512.css.map": "/zerodha-Login-pagez/static/css/main.b0a6b512.css.map",
+    "main.cf3be111.js.map": "/zerodha-Login-pagez/static/js/main.cf3be111.js.map",
+    "453.3e01e64e.chunk.js.map": "/zerodha-Login-pagez/static/js/453.3e01e64e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a6b512.css",
+    "static/js/main.cf3be111.js"
+  ]
+}
